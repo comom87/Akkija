@@ -26,6 +26,6 @@
 ## 🔥 트러블슈팅
 
 ## 👩‍🏫 발표 자료
-- [아!끼자 발표자료](https://github.com/comom87/save-market/blob/f9e5c998530da2fc41f85d52412d2576369444dd/%E1%84%8B%E1%85%A1!%E1%84%81%E1%85%B5%E1%84%8C%E1%85%A1.pdf)
+- [아!끼자 발표자료](https://github.com/comom87/save_market/blob/2b9cd76e194df55d8ba7ca485881c497dc4a8156/presentation/%EC%95%84!%EB%81%BC%EC%9E%90.pdf)
 
 ## 🖋️ 배운 점
