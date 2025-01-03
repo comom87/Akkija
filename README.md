@@ -12,20 +12,33 @@
 - 공동 구매를 원하는 소비자는 공동 구매 할 물품을 등록하여 다른 소비자와 함께 공동 구매를 하거나 다른 소비자가 등록한 공동 구매 물품을 선택하여 공동 구매에 참여할 수 있습니다.
 
 ## 🎯 프로젝트 목적
-- 공동 구매를 통해 상대적으로 저렴한 대용량 상품을 구매할 수 있게 되어 경제적인 소비가 가능하도록 합니다.
-- 공동 구매를 통해 무료 배송 최소 금액을 충당함으로써 배송비를 절약할 수 있도록 합니다.
 
 ## 📅 개발 기간
 2022.06.28 ~ 2023. 08.21
 
 ## 👫 팀원 소개
-
+- 김영현: 기획자 및 디자이너
+- 김지우: 프론트엔드 개발자
+- 정승현: 프론트엔드 개발자
+- 강효정: 백엔드 개발자
+- 김명지; 백엔드 개발자
 
 ## 📄 프로젝트 설명
 
+
 ## 🛠️ 기술 스택
+** ◀️ 프론트엔드**
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
+
+**▶️ 백엔드**  
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 
 ## ⚙️ 주요 기능
+**1️⃣ 공동 구매 모집글 생성**
+
+**2️⃣ 위시리스트**
 
 ## 🔥 트러블슈팅
 
